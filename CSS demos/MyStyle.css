@@ -1,0 +1,16 @@
+body{
+  background-color:white;
+}
+
+h1{
+  color: red;
+  text-align: center;
+ font-family : verdana
+}
+
+p{
+  font-family: Brush Script MT;
+  fop.dotted ;
+border-style: dotted;
+}
+

@@ -1,0 +1,16 @@
+body{
+  background-image:url("sky.png") ; background-repeat:repeat;
+}
+
+h1{
+  color: red;
+background-color:cyan;
+
+}
+
+h2{
+  color: orange;
+background-color:yellow;
+}
+
+

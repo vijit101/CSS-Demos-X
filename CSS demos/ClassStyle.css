@@ -1,0 +1,28 @@
+body{
+  background-color:white;
+}
+
+h1{
+  color: blue;
+  text-align: center;
+ font-family : jokerman
+}
+
+h1.fruit{
+  color: pink;
+  text-align: center;
+ font-family : jokerman
+}
+
+h1.vegetable{
+  color: red;
+  text-align: center;
+ font-family : cooper
+}
+
+p{
+  font-family: Brush Script MT;
+  fop.dotted ;
+border-style: dotted;
+}
+
