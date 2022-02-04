@@ -1,0 +1,21 @@
+body{
+  background-color:black;
+}
+
+h1{
+  color: red;
+  text-indent: 100px;
+  text-align: left; /* left ,right ,justify*/
+  text-decoration: overline; /* underline , line-through , Overline*/ 
+  text-transform: uppercase;/* uppercase lowercase none*/
+  word-spacing: 10px;
+  letter-spacing: 10px; /*leading*/ 
+}
+
+h2{
+  color: orange;
+/* background-color:yellow; */
+  text-align: center;
+  font-family : verdana
+}
+

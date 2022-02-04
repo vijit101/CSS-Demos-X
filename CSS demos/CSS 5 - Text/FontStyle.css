@@ -1,0 +1,20 @@
+body{
+  background-color:black;
+}
+
+h1{
+  color: red;
+  text-align: center;
+ font-family : 'Times New Roman', Times, serif;
+ font-weight: 600;
+ font-size: 50px;
+ font-variant: normal;
+ font-style: italic;
+}
+
+h2{
+  color: aliceblue;
+font : italic 600 20px verdana,sans-seriff;
+}
+
+

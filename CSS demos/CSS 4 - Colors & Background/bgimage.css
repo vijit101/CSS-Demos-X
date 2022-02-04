@@ -1,0 +1,18 @@
+body{
+  background-image:url("sky.png") ; background-repeat:no-repeat;
+  /*background-size: 1920px 1080px;*/
+  color:blue;
+}
+/*try using Repeat-x , Repeat-y , no-repeat */
+
+h1{
+  color: red; /*Text color */
+background-color:black;/*Back ground color for H1 text */
+
+}
+
+h2{
+  color: orange;
+}
+
+

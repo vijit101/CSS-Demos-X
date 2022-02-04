@@ -1,0 +1,20 @@
+body{
+  /*background-image:url("sky.png") ; background-repeat:repeat;*/
+  color:blueviolet;
+}
+/*try using Repeat-x , Repeat-y , no-repeat */
+
+h1{
+  color: red; /*Text color */
+background-color:cyan;/*Back ground color for H1 text */
+
+}
+
+h2{
+  color: orange;
+background: greenyellow url("sky.png") no-repeat;
+}
+/*background tag is a mix of all background properties specified in one list as background : [color] []background-image] 
+[background repeat] */
+/*try using Repeat-x , Repeat-y , no-repeat */
+

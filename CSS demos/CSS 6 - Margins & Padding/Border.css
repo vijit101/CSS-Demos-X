@@ -1,0 +1,18 @@
+
+
+h1{
+color: aqua;
+border-width: 10px;
+border-color: gold;
+border-style: groove;
+}
+
+h2{
+
+    color: rgb(187, 245, 245);
+    border-width: 10px;
+    border-color: burlywood;
+    border-style: groove;
+}
+
+
